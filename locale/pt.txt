@@ -23,8 +23,8 @@ Button_9EC94139_906C_D6AA_41DF_44C56333123E.label = Hotel
 Button_9EC94139_906C_D6AA_41DF_44C56333123E_mobile.label = Hotel
 Button_9ED37DD1_906C_C9FA_41D1_FAB406FA6DAC.label = Tirolesa
 Button_9ED37DD1_906C_C9FA_41D1_FAB406FA6DAC_mobile.label = Tirolesa
-Button_9EE1F90D_906D_3665_4192_6E0A965A4F12.label = Piscina Olimpica
-Button_9EE1F90D_906D_3665_4192_6E0A965A4F12_mobile.label = Piscina Olimpica
+Button_9EE1F90D_906D_3665_4192_6E0A965A4F12.label = Piscina de Águas Naturais
+Button_9EE1F90D_906D_3665_4192_6E0A965A4F12_mobile.label = Piscina de Águas Naturais
 Button_9EEACC30_906C_CEBA_41C4_699E7A89B328.label = Churrasqueiras
 Button_9EEACC30_906C_CEBA_41C4_699E7A89B328_mobile.label = Churrasqueiras
 Button_9EEC3AAE_906C_CBA7_41C2_1A6BA433C3CD.label = Bangalô
@@ -83,9 +83,9 @@ panorama_8EF5B97F_9416_E5D1_41E1_CA757A2AD944.label = Drone Hot Sland
 panorama_AE4551B1_A506_8479_41E0_8BDB6BC12796.label = Piscina Olimpica Meio
 panorama_AE757C33_A506_9C7A_4197_738091860594.label = Fachada Cima
 panorama_E3641E03_EC9A_2438_41A6_0196A1B36FFC.label = HDR Bangalô Novo
-panorama_E3658BE2_EC9A_63F8_41EA_14758F5D7E10.label = HDR 2 Churrasqueira Novo
 panorama_E365F26C_EC9A_3CC8_41DE_303792CF610A.label = HDR Tirolesa baixo. novo
 panorama_E3790663_EC9A_24F8_41D6_8B49D1AF0F54.label = HDR Tirolesa cima. NOVO
+panorama_EDE32093_F5F8_BF4D_41D7_E8D3463F22F7.label = Churrasqueira New
 panorama_FEEA1A05_EC9B_EC38_41CC_A382E1F9F803.label = entrada 2 Novo
 video_B0BF6D55_AA5F_C6E7_41CE_4F8542BF9801.label = SAM_101_1039_20210822223500_20210822223524_1_1
 video_D1E0D893_EC9A_2C58_41E1_185B2A099698.label = video tirolesa
@@ -100,9 +100,9 @@ HotspotPanoramaOverlayArea_BB9A6275_942F_E7D6_41C1_55D756F55904.toolTip = Futura
 ### URL
 LinkBehaviour_B35213CB_AD71_3E1A_41D8_B3EE813E8F72.source = https://www.instagram.com/thermasdamata/
 LinkBehaviour_BB89E304_ACB0_FE0E_418D_283532209596.source = https://www.instagram.com/thermasdamata/
-PopupWebFrameBehaviour_8B27B635_9BAA_7222_41A5_2AFF42A811E6.url = https://www.reservasthermasdamata.com.br/
-PopupWebFrameBehaviour_B354A3BB_AD71_3E7A_41DB_8F566E845588.url = https://www.reservasthermasdamata.com.br/
 PopupWebFrameBehaviour_B35503BB_AD71_3E7A_41DB_47EC26DE320B.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2584.7837073795968!2d-46.953697426703876!3d-23.62454566911484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfa82610303349%3A0xcc0ce1ccf01865b1!2sThermas%20da%20Mata!5e0!3m2!1spt-BR!2sbr!4v1630694393019!5m2!1spt-BR!2sbr
 PopupWebFrameBehaviour_B35583BB_AD71_3E7A_41E0_C252AD1E3CFD.url = https://www.thermasdamata.com.br/
 PopupWebFrameBehaviour_B4F3E343_AC93_3E09_41DB_AC261DB0B5DE.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2584.7837073795968!2d-46.953697426703876!3d-23.62454566911484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfa82610303349%3A0xcc0ce1ccf01865b1!2sThermas%20da%20Mata!5e0!3m2!1spt-BR!2sbr!4v1630694393019!5m2!1spt-BR!2sbr
 PopupWebFrameBehaviour_B4FC9BDE_AC90_CE3A_41AE_FEECFE007117.url = https://www.thermasdamata.com.br/
+PopupWebFrameBehaviour_E578A9BB_F5D9_80BE_41EB_2FCF5B608459.url = https://www.reservasthermasdamata.com.br/
+PopupWebFrameBehaviour_FA14D6EF_F5DF_80D5_41EC_63A30BB046F9.url = https://www.reservasthermasdamata.com.br/

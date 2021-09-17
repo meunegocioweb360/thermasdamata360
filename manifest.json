@@ -1,7 +1,7 @@
 {
  "name": "Thermas da Mata - Tour Virtual 360°",
- "background_color": "#00CC00",
  "description": "Conheça o Thermas da Mata em 360° graus, seja bem vindo ao melhor lugar do mundo. @thermasdamata",
+ "start_url": "index.htm?installed=true",
  "theme_color": "#00CC00",
  "icons": [
   {
@@ -40,6 +40,6 @@
    "src": "misc/icon16.png"
   }
  ],
- "start_url": "index.htm?installed=true",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "background_color": "#00CC00"
 }
